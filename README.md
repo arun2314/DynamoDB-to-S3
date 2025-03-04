@@ -14,10 +14,11 @@
 ✔ Add sample data:  
 ```
 {
-  "id": "1",
-  "name": "Alice",
-  "email": "alice@example.com"
+  "id": { "S": "1" },
+  "name": { "S": "Alice" },
+  "email": { "S": "alice@example.com" }
 }
+
 ```  
 
 ---  
